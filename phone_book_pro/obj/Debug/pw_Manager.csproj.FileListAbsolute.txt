@@ -1,0 +1,12 @@
+C:\Users\A8P9VZZ\Desktop\Udemy C#\Intermediate C#\phone_book_pro_ns\phone_book_pro\bin\Debug\phone_book_pro.exe
+C:\Users\A8P9VZZ\Desktop\Udemy C#\Intermediate C#\phone_book_pro_ns\phone_book_pro\bin\Debug\phone_book_pro.pdb
+C:\Users\A8P9VZZ\Desktop\Udemy C#\Intermediate C#\phone_book_pro_ns\phone_book_pro\obj\Debug\pw_Manager.csproj.AssemblyReference.cache
+C:\Users\A8P9VZZ\Desktop\Udemy C#\Intermediate C#\phone_book_pro_ns\phone_book_pro\obj\Debug\phone_book_pro.About_Form.resources
+C:\Users\A8P9VZZ\Desktop\Udemy C#\Intermediate C#\phone_book_pro_ns\phone_book_pro\obj\Debug\phone_book_pro.Entry_form.resources
+C:\Users\A8P9VZZ\Desktop\Udemy C#\Intermediate C#\phone_book_pro_ns\phone_book_pro\obj\Debug\phone_book_pro.Form1.resources
+C:\Users\A8P9VZZ\Desktop\Udemy C#\Intermediate C#\phone_book_pro_ns\phone_book_pro\obj\Debug\phone_book_pro.Properties.Resources.resources
+C:\Users\A8P9VZZ\Desktop\Udemy C#\Intermediate C#\phone_book_pro_ns\phone_book_pro\obj\Debug\phone_book_pro.Search_Form.resources
+C:\Users\A8P9VZZ\Desktop\Udemy C#\Intermediate C#\phone_book_pro_ns\phone_book_pro\obj\Debug\pw_Manager.csproj.GenerateResource.cache
+C:\Users\A8P9VZZ\Desktop\Udemy C#\Intermediate C#\phone_book_pro_ns\phone_book_pro\obj\Debug\pw_Manager.csproj.CoreCompileInputs.cache
+C:\Users\A8P9VZZ\Desktop\Udemy C#\Intermediate C#\phone_book_pro_ns\phone_book_pro\obj\Debug\phone_book_pro.exe
+C:\Users\A8P9VZZ\Desktop\Udemy C#\Intermediate C#\phone_book_pro_ns\phone_book_pro\obj\Debug\phone_book_pro.pdb
